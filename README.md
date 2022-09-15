@@ -1,7 +1,7 @@
 # batch-repo-pull
 
 ## Usage
-python repo-tool/batch-clone.py 
+`python repo-tool/batch-clone.py`
 ```
 Usage: batch-clone.py [OPTIONS]
 
