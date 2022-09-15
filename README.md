@@ -1,4 +1,4 @@
-# batch-repo-pull
+# Repo Tools
 
 ## Usage
 `python repo-tool/batch-clone.py`
